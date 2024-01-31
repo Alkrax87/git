@@ -1,1 +1,1 @@
-console.log("Hello git 2");
+console.log("Editando el fichero");
